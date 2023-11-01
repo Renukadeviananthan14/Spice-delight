@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+    background-color: black;
+}
+.container{
+    background-image: url("bg-food.jpg");
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+}
+
+
+.submit{
+    background-color: darkturquoise;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.footer{
+    color: white;
+    text-align: center;
+    padding: 70px;
+    height: 100px;
+    width: auto;
+}
+.a{
+    color: black;
+    text-decoration: none;
+    background-color: darkturquoise;
+    float: right;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.form{
+    border: 1px solid white;
+    height: 270px;
+    width: 300px;
+}
+.form-login{
+    text-align: center;
+    margin: 30px;
+}
+.username{
+    padding: 10px;
+}
+.password{
+    padding: 10px;
+}
+.form-body{
+    border: 1px solid white;
+    height: 350px;
+    width: 500px;
+    display: fixed;
+}
+.email{
+    padding: 10px;
+    width: 300px;
+}
+.name{
+    padding: 10px;
+    width: 300px;
+}
+.textarea{
+    height: 70px;
+    width: 320px;
+    margin: 30px;
+    margin-left: 15px;
+}
+.form-log{
+    margin: 30px;
+}
+.form-login1{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+.follow{
+    margin-top: 100px;
+}
